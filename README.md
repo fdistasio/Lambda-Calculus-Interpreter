@@ -1,3 +1,5 @@
+## Lambda Calculus Interpreter
+
 The project allows to interpret lambda-expressions by implementing the beta reduction, call by name and call by value strategies.
 
 The file types.ml defines the syntax of lambda expressions.
